@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Swift UI and C++ language
 - 💞️ I’m looking to collaborate on good performance in programming
 - 📫 How to reach me: insta id: @neo_star11
-- 😄 Pronouns: neo
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I developed a program to automate my uiversity assigments, and it works flawlessly!
 
 <!---
